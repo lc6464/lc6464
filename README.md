@@ -4,6 +4,9 @@
 
 [我的网站 (https://lcwebsite.cn)](https://lcwebsite.cn)
 
+[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=lc6464&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true "GitHub 统计")](https://github-readme-stats.vercel.app/api?username=lc6464&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true)
+[![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs?username=lc6464&theme=algolia&locale=cn "最常用的语言")](https://github-readme-stats.vercel.app/api/top-langs?username=lc6464&theme=algolia&locale=cn)
+
 ### 学生
 - 广东
 - 高一
@@ -34,3 +37,15 @@
 - 文档本地化
   - 外语大佬❌
   - 谷歌翻译 ✔
+
+
+## GitHub Pages
+
+![GitHub Pages 储存库](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=lc6464.github.io&theme=algolia&locale=cn&show_owner=true "GitHub Pages 储存库")
+
+[Vercel](https://lc-gh.vercel.app/)
+
+[GitHub.io](https://lc6464.github.io/)
+
+## Profile
+![GitHub Profile 储存库](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=lc6464&theme=algolia&locale=cn&show_owner=true "GitHub Profile 储存库")
