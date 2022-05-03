@@ -47,7 +47,7 @@
 
 
 ## Profile
-![GitHub Profile 储存库](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=lc6464&theme=algolia&locale=cn&show_owner=true "GitHub Profile 储存库")
+[![GitHub Profile 储存库](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=lc6464&theme=algolia&locale=cn&show_owner=true "GitHub Profile 储存库")](https://github.com/lc6464/lc6464)
 
 
 ## 开发或网络上搜集的文件
