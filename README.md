@@ -20,11 +20,11 @@
   - CSS
   - Python
   - C#
-  - PHP
   - Go
+  - PHP (Abandon)
 - 会一点的运行时（框架）：
   - .NET (Include ASP.NET Core)
-  - .NET Framework (Include ASP.NET Framework)
+  - .NET Framework (Include ASP.NET Framework) (Abandon)
   - NodeJS
 
 ## 爱好
@@ -40,7 +40,7 @@
 
 
 ## GitHub Pages
-[Vercel](https://lc6464.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;
+[Vercel](https://lc6464.vercel.app/) &nbsp; &nbsp;
 [GitHub.io](https://lc6464.github.io/)
 
 [![GitHub Pages 储存库](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=lc6464.github.io&theme=algolia&locale=cn&show_owner=true "GitHub Pages 储存库")](https://github.com/lc6464/lc6464.github.io)
@@ -52,6 +52,6 @@
 
 ## 开发或网络上搜集的文件
 [![JavaScript](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=js&theme=algolia&locale=cn&show_owner=true "JavaScript")](https://github.com/lc6464/js)
+[![Images](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=image&theme=algolia&locale=cn&show_owner=true "Images")](https://github.com/lc6464/image)
 [![Python](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=python-files&theme=algolia&locale=cn&show_owner=true "Python")](https://github.com/lc6464/python-files)
 [![JSON](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=json&theme=algolia&locale=cn&show_owner=true "JSON")](https://github.com/lc6464/json)
-[![Images](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=image&theme=algolia&locale=cn&show_owner=true "Images")](https://github.com/lc6464/image)
