@@ -10,8 +10,8 @@
 
 ### 学生
 - 中华人民共和国广东省
-- 即将高三
-- 住宿生
+- 高三（很少在线）
+- 住宿生（非自愿）
 ### 开发者
 - 会一点的语言（包括标记语言）：
   - HTML
@@ -24,8 +24,9 @@
   - PHP (Abandon)
 - 会一点的运行时（框架）：
   - .NET (Include ASP.NET Core)
-  - .NET Framework (Include ASP.NET Framework) (Abandon)
   - NodeJS
+  - .NET Framework (Include ASP.NET Framework) (Abandon)
+
 
 ## 爱好
 - 编程开发
@@ -50,8 +51,8 @@
 [![GitHub Profile 储存库](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=lc6464&theme=algolia&locale=cn&show_owner=true "GitHub Profile 储存库")](https://github.com/lc6464/lc6464)
 
 
-## 开发或网络上搜集的文件
-[![JavaScript](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=js&theme=algolia&locale=cn&show_owner=true "JavaScript")](https://github.com/lc6464/js)
-[![Images](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=image&theme=algolia&locale=cn&show_owner=true "Images")](https://github.com/lc6464/image)
-[![Python](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=python-files&theme=algolia&locale=cn&show_owner=true "Python")](https://github.com/lc6464/python-files)
-[![JSON](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=json&theme=algolia&locale=cn&show_owner=true "JSON")](https://github.com/lc6464/json)
+## 开发
+[![JavaScript](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.AddResponseHeaders&theme=algolia&locale=cn&show_owner=true "JavaScript")](https://github.com/lc6464/LC6464.ASPNET.AddResponseHeaders)
+[![Images](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.Http304&theme=algolia&locale=cn&show_owner=true "Images")](https://github.com/lc6464/LC6464.ASPNET.Http304)
+[![Python](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.HttpConnectionInfo&theme=algolia&locale=cn&show_owner=true "Python")](https://github.com/lc6464/LC6464.ASPNET.HttpConnectionInfo)
+[![JSON](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=api.lcwebsite.cn&theme=algolia&locale=cn&show_owner=true "JSON")](https://github.com/lc6464/api.lcwebsite.cn)
