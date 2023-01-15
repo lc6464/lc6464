@@ -16,6 +16,7 @@
 - 会一点的语言（包括标记语言）：
   - HTML
   - Markdown
+  - TypeScript
   - JavaScript
   - CSS
   - Python
@@ -52,7 +53,7 @@
 
 
 ## 开发
-[![JavaScript](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.AddResponseHeaders&theme=algolia&locale=cn&show_owner=true "JavaScript")](https://github.com/lc6464/LC6464.ASPNET.AddResponseHeaders)
-[![Images](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.Http304&theme=algolia&locale=cn&show_owner=true "Images")](https://github.com/lc6464/LC6464.ASPNET.Http304)
-[![Python](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.HttpConnectionInfo&theme=algolia&locale=cn&show_owner=true "Python")](https://github.com/lc6464/LC6464.ASPNET.HttpConnectionInfo)
-[![JSON](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=api.lcwebsite.cn&theme=algolia&locale=cn&show_owner=true "JSON")](https://github.com/lc6464/api.lcwebsite.cn)
+[![LC6464.ASPNET.AddResponseHeaders](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.AddResponseHeaders&theme=algolia&locale=cn&show_owner=true "LC6464.ASPNET.AddResponseHeaders")](https://github.com/lc6464/LC6464.ASPNET.AddResponseHeaders)
+[![LC6464.ASPNET.Http304](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.Http304&theme=algolia&locale=cn&show_owner=true "LC6464.ASPNET.Http304")](https://github.com/lc6464/LC6464.ASPNET.Http304)
+[![LC6464.ASPNET.HttpConnectionInfo](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=LC6464.ASPNET.HttpConnectionInfo&theme=algolia&locale=cn&show_owner=true "LC6464.ASPNET.HttpConnectionInfo")](https://github.com/lc6464/LC6464.ASPNET.HttpConnectionInfo)
+[![api.lcwebsite.cn](https://github-readme-stats.vercel.app/api/pin?username=lc6464&repo=api.lcwebsite.cn&theme=algolia&locale=cn&show_owner=true "api.lcwebsite.cn")](https://github.com/lc6464/api.lcwebsite.cn)
