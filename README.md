@@ -10,16 +10,16 @@
 
 ### 学生
 - 中华人民共和国广东省
-- 高三毕业
+- ZHKU 英语 准大一
 ### 开发者
 - 会一点的语言（包括标记语言）：
-  - HTML
-  - Markdown
+  - C#
+  - Python
   - TypeScript
   - JavaScript
+  - HTML
+  - Markdown
   - CSS
-  - Python
-  - C#
   - Go
   - PHP (Abandon)
 - 会一点的运行时（框架）：
@@ -36,10 +36,13 @@
   - 上述语言啥都只懂一点点✔
   - 写 Hello World✔
   - ChatGPT✔
+  - Bing AI✔
 - 文档本地化
   - 外语大佬❌
+  - 英专新生✔
   - 谷歌翻译✔
   - ChatGPT✔
+  - Bing AI✔
 
 
 ## GitHub Pages
