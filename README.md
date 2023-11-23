@@ -21,11 +21,11 @@
   - Markdown
   - CSS
   - Go
-  - PHP (Abandon)
+  - ~~PHP~~ (Abandon)
 - 会一点的运行时（框架）：
   - .NET (Include ASP.NET Core)
   - NodeJS
-  - .NET Framework (Include ASP.NET Framework) (Abandon)
+  - ~~.NET Framework (Include ASP.NET Framework)~~ (Abandon)
 
 
 ## 爱好
@@ -43,6 +43,9 @@
   - 谷歌翻译✔
   - ChatGPT✔
   - Bing AI✔
+- 电子电路
+  - EasyEDA✔
+  - OSHWHub✔
 
 
 ## GitHub Pages
