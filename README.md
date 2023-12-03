@@ -44,6 +44,7 @@
 - 电子电路
   - EasyEDA✔
   - OSHWHub✔
+  - Datasheets✔
 
 
 ## GitHub Pages
