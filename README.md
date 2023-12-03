@@ -2,7 +2,7 @@
 
 [lc6464 [GitHub]](https://github.com/lc6464)&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[我的网站 (https://lcwebsite.cn)](https://lcwebsite.cn)
+[个人网站 (https://lcwebsite.cn)](https://lcwebsite.cn)
 
 [![GitHub 统计](https://github-readme-stats.vercel.app/api?username=lc6464&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true "GitHub 统计")](https://github-readme-stats.vercel.app/api?username=lc6464&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true)
 
@@ -10,7 +10,7 @@
 
 ### 学生
 - 中华人民共和国广东省
-- ZHKU 英语 准大一
+- ZHKU-英语-大一
 ### 开发者
 - 会一点的语言（包括标记语言）：
   - C#
@@ -31,18 +31,16 @@
 ## 爱好
 - 编程开发
   - 大佬❌
-  - 边查文档、边 Bing、边开发✔
+  - Documents and Bing✔
   - 上述语言都懂❌
   - 上述语言啥都只懂一点点✔
-  - 写 Hello World✔
-  - ChatGPT✔
-  - Bing AI✔
+  - Hello World✔
+  - Large Language Models✔
 - 文档本地化
   - 外语大佬❌
   - 英专新生✔
-  - 谷歌翻译✔
-  - ChatGPT✔
-  - Bing AI✔
+  - Google Translate✔
+  - Large Language Models✔
 - 电子电路
   - EasyEDA✔
   - OSHWHub✔
