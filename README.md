@@ -17,6 +17,8 @@
   - Python
   - TypeScript
   - JavaScript
+  - C
+  - C++
   - HTML
   - Markdown
   - CSS
@@ -45,6 +47,9 @@
   - EasyEDA✔
   - OSHWHub✔
   - Datasheets✔
+- 嵌入式
+  - STM32✔
+  - ESP32✔
 
 
 ## GitHub Pages
