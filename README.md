@@ -9,16 +9,17 @@
 [![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs?username=lc6464&theme=algolia&locale=cn "最常用的语言")](https://github-readme-stats.vercel.app/api/top-langs?username=lc6464&theme=algolia&locale=cn)
 
 ### 学生
-- 中华人民共和国广东省
-- ZHKU-英语-大一
+- 中国广东
+- 本科学生
+
 ### 开发者
 - 会一点的语言（包括标记语言）：
   - C#
   - Python
   - TypeScript
   - JavaScript
-  - C
   - C++
+  - C
   - HTML
   - Markdown
   - CSS
@@ -33,15 +34,14 @@
 ## 爱好
 - 编程开发
   - 大佬❌
-  - Documents and Bing✔
+  - Documents and Google✔
   - 上述语言都懂❌
   - 上述语言啥都只懂一点点✔
   - Hello World✔
   - Large Language Models✔
 - 文档本地化
   - 外语大佬❌
-  - 英专新生✔
-  - Google Translate✔
+  - DeepL✔
   - Large Language Models✔
 - 电子电路
   - EasyEDA✔
@@ -49,7 +49,7 @@
   - Datasheets✔
 - 嵌入式
   - STM32✔
-  - ESP32✔
+  - Raspberry Pi✔
 
 
 ## GitHub Pages
